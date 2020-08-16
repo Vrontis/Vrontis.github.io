@@ -27,7 +27,7 @@ url: "https://vrontis.dev" # the base hostname & protocol for your site, e.g. ht
 github_username:  Vrontis
 
 # Build settings
-theme: midnight
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
