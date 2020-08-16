@@ -30,6 +30,7 @@ github_username:  Vrontis
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
