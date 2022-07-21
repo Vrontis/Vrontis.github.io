@@ -1,0 +1,27 @@
+/* base */
+
+body {
+	background-color: #222222;
+	margin-left: 3%;
+	margin-top: 3%;
+	font-family: Arial, Helvetica, sans-serif;
+	color: aliceblue;
+}
+
+/* links */
+
+a:link {
+	color: cornflowerblue;
+}
+
+a:visited {
+	color: cadetblue;
+}
+
+a:hover {
+	color: aquamarine;
+}
+
+a:active {
+	color: aqua;
+}
